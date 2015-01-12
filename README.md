@@ -81,6 +81,8 @@ Please create the following accounts:
 %s/^H//g
 ```
 
+其中 <kbd>^H</kbd> 是特殊字元，要用 <kbd>Ctrl+V Ctrl+H</kbd> 輸入。
+
 ### 3. 實際匯入到 MoneyWiz
 
 打開 MoneyWiz，確定所有帳戶都開好了以後，按一下 File -> Import -> Import from a file
