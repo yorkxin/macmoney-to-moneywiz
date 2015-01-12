@@ -6,6 +6,8 @@ Since MacMoney is mostly used in Taiwan, this doc will be in Chinese only.
 
 ## 限制
 
+* 在 MacMoney 裡面設定為「隱藏」的帳戶，匯入之後還是會顯示，建議自行開一個名為「沒在用」的 Group 來隱藏他們。
+* 無法匯入 MacMoney 裡面的「星號」標記（MoneyWiz 匯入程式不支援）。在 MoneyWiz 裡面對應的功能是 Pending Transaction。
 * 無法匯入帳務紀錄裡面的「備註」（MoneyWiz 匯入程式不支援）
 * 無法匯入負債（我沒有使用；信用卡我用「資產」紀錄）
 * 無法匯入分期付款（我沒有使用）
