@@ -73,6 +73,14 @@ Please create the following accounts:
 
 請注意 **Open Balance 要一致**。
 
+#### 轉換過程中的疑難排解
+
+如果遇到 Parse Error 訊息裡面有什麼 `\xb` 之類的，而且你又有用無蝦米輸入法，那麼可能是因為這樣所以輸入法不小心輸入了 `^H` 字元。請用 vim 取代之：
+
+```vim
+%s/^H//g
+```
+
 ### 3. 實際匯入到 MoneyWiz
 
 打開 MoneyWiz，確定所有帳戶都開好了以後，按一下 File -> Import -> Import from a file
