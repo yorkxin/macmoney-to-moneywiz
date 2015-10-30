@@ -2,7 +2,7 @@
 
 MacMoney to MoneyWiz 2 Converter
 
-Since MacMoney is mostly used in Taiwan, this doc will be in Chinese only.
+Since [MacMoney](http://www.devon.riceball.net/display.php?file=m01) is mostly used in Taiwan, this doc will be in Chinese only.
 
 ## 限制
 
